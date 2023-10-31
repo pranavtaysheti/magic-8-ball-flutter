@@ -1,4 +1,4 @@
-package co.appbrewery.magic8ball;
+package com.pranavtaysheti.magic_8_ball;
 
 import io.flutter.embedding.android.FlutterActivity;
 
